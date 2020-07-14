@@ -10,3 +10,4 @@ A simple (and very inefficient) video clip splicer made in Max/MSP.
 <br/>https://archive.org/details/RecordBackground
 <br/>https://archive.org/details/RecordPlayerTimeLapse
 <br/>Ghost in the Shell (1995)</p>
+<p>Christopher Carin 2020, WTFPL http://www.wtfpl.net/</p>
